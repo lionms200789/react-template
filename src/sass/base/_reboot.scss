@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/reboot";
+
+// 如果想要覆蓋 bootstrap 的 reboot 在此撰寫
+svg {
+  display: block;
+  max-height: inherit;
+  max-width: inherit;
+  min-width: inherit;
+  min-height: inherit;
+}
